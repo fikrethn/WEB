@@ -45,5 +45,14 @@
         "desc_en": "The journey of developing mobile applications for smartphones."
     },
 
-
+    {
+        "id": 6,
+        "icon": "fas fa-gamepad",
+        "image": "",
+        "title_tr": "Oyun Geliştirme",
+        "title_en": "Game Development",
+        "desc_tr": "İnteraktif oyun mekanikleri ve motoru geliştirmeleri.",
+        "desc_en": "Developing interactive game mechanics and engine workflows."
+    }
 ]
+
