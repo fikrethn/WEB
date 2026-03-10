@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#00e1ff" />
+            <stop offset="100%" stop-color="#0099cc" />
+        </linearGradient>
+        <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    
+    <!-- Dark Base with Rounded Corners -->
+    <rect width="512" height="512" rx="120" fill="#0a0a0c" stroke="#27272a" stroke-width="4" />
+    
+    <!-- Inner Accent Ring -->
+    <circle cx="256" cy="256" r="210" fill="none" stroke="url(#cyanGrad)" stroke-width="4" stroke-dasharray="20 15" opacity="0.3" />
+
+    <!-- Abstract Glowing 'F' -->
+    <g filter="url(#neonGlow)">
+        <!-- Vertical Stem -->
+        <rect x="180" y="140" width="40" height="232" rx="10" fill="url(#cyanGrad)" />
+        <!-- Top Bar -->
+        <rect x="220" y="140" width="130" height="40" rx="10" fill="url(#cyanGrad)" />
+        <!-- Middle Bar -->
+        <rect x="220" y="236" width="90" height="40" rx="10" fill="url(#cyanGrad)" />
+        
+        <!-- Tech/Circuit Decorative Nodes -->
+        <circle cx="200" cy="356" r="8" fill="#0a0a0c" />
+        
+        <circle cx="150" cy="380" r="8" fill="#00e1ff" />
+        <rect x="160" y="378" width="60" height="4" fill="#00e1ff" />
+        
+        <circle cx="370" cy="160" r="8" fill="#00e1ff" />
+        <rect x="300" y="158" width="60" height="4" fill="#00e1ff" />
+    </g>
+</svg>
