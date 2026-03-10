@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "icon": "fas fa-brain",
+        "image": "",
+        "title_tr": "Yapay Zeka (AI)",
+        "title_en": "Artificial Intelligence (AI)",
+        "desc_tr": "Python kullanarak yapay zeka modelleri geliştirmek ve makine öğrenmesi algoritmaları oluşturmak.",
+        "desc_en": "Developing artificial intelligence models and machine learning algorithms using Python."
+    },
+    {
+        "id": 2,
+        "icon": "fas fa-server",
+        "image": "",
+        "title_tr": "Backend Geliştirme",
+        "title_en": "Backend Development",
+        "desc_tr": "Sunucu tarafı kodlama, mantık ve veritabanı yönetimi (Java, C#, C++ vb.).",
+        "desc_en": "Server-side coding, logic, and database management (Java, C#, C++)."
+    },
+    {
+        "id": 3,
+        "icon": "fas fa-shield-alt",
+        "image": "",
+        "title_tr": "Siber Güvenlik",
+        "title_en": "Cyber Security",
+        "desc_tr": "Geliştirilen sistemlerin güvenliğini sağlamak ve açıkları kapatmak.",
+        "desc_en": "Securing developed systems and patching vulnerabilities."
+    },
+    {
+        "id": 4,
+        "icon": "fas fa-cube",
+        "image": "",
+        "title_tr": "3D Modelleme & Tasarım",
+        "title_en": "3D Modeling & Design",
+        "desc_tr": "3D ortam oluşturma, Grafik Tasarım ve projelere görsel estetik kazandırmak.",
+        "desc_en": "Creating 3D environments, Graphic Design, and adding visual aesthetics to projects."
+    },
+    {
+        "id": 5,
+        "icon": "fab fa-android",
+        "image": "",
+        "title_tr": "Android Geliştirme",
+        "title_en": "Android Development",
+        "desc_tr": "Akıllı telefonlar için mobil uygulama geliştirme serüveni.",
+        "desc_en": "The journey of developing mobile applications for smartphones."
+    },
+    {
+        "id": 6,
+        "icon": "fas fa-gamepad",
+        "image": "",
+        "title_tr": "Oyun Geliştirme",
+        "title_en": "Game Development",
+        "desc_tr": "İnteraktif oyun mekanikleri ve motoru geliştirmeleri.",
+        "desc_en": "Developing interactive game mechanics and engine workflows."
+    }
+]
