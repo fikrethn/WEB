@@ -19,12 +19,12 @@
     },
     {
         "id": 3,
-        "icon": "fas fa-shield-alt",
+        "icon": "fa-brands fa-chrome",
         "image": "",
-        "title_tr": "Siber Güvenlik",
-        "title_en": "Cyber Security",
-        "desc_tr": "Geliştirilen sistemlerin güvenliğini sağlamak ve açıkları kapatmak.",
-        "desc_en": "Securing developed systems and patching vulnerabilities."
+        "title_tr": "Web Geliştirme & Tasarım",
+        "title_en": "Web Developing & Design",
+        "desc_tr": "Web site sistemleri üzerine statik kodlarla çalışma ve gelişme.",
+        "desc_en": "Working with and developing website systems using static code."
     },
     {
         "id": 4,
