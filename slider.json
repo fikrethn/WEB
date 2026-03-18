@@ -1,1 +1,19 @@
-
+[
+  {
+    "id": 1,
+    "image": "https://url-or-path-to-your-background.gif",
+    "title_tr": "Yeni Web Tasarımım",
+    "title_en": "My New Web Design",
+    "desc_tr": "Portfolyomu tamamen yeniledim, 3D ve cam efektleri ile geliştirdim.",
+    "desc_en": "I completely redesigned my portfolio with 3D and glassmorphism.",
+    "url": "https://github.com/fikrethn"
+  },
+  {
+    "id": 2,
+    "image": "https://url-to-another-background.jpg",
+    "title_tr": "Son Projelerim",
+    "title_en": "Latest Projects",
+    "desc_tr": "Geliştirmekte olduğum son projeleri aşağıdan inceleyebilirsiniz.",
+    "desc_en": "You can check out my latest under-development projects below."
+  }
+]
