@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "image": "https://url-or-path-to-your-background.gif",
-    "title_tr": "Yeni Web Tasarımım",
+    "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR2c3VsZWFtMnBmeHNwMGh5NGE1aG5yOG9zZGVibHN2YXNqN3V6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif",
+    "title_tr": "Tasarım yenilenmesi",
     "title_en": "My New Web Design",
     "desc_tr": "Portfolyomu tamamen yeniledim, 3D ve cam efektleri ile geliştirdim.",
     "desc_en": "I completely redesigned my portfolio with 3D and glassmorphism.",
@@ -10,10 +10,11 @@
   },
   {
     "id": 2,
-    "image": "https://url-to-another-background.jpg",
-    "title_tr": "Son Projelerim",
-    "title_en": "Latest Projects",
-    "desc_tr": "Geliştirmekte olduğum son projeleri aşağıdan inceleyebilirsiniz.",
-    "desc_en": "You can check out my latest under-development projects below."
+    "image": "images/sutis.jpeg",
+    "title_tr": "SUTIS-2025",
+    "title_en": "SUTIS 2025",
+    "desc_tr": "",
+    "desc_en": "",
+    "url": ""
   }
 ]
