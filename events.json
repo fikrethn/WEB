@@ -8,7 +8,16 @@
         "image": "images/event.jpeg",
         "url": "https://www.linkedin.com/feed/update/urn:li:activity:7401572482161451008//"
     }    
-      
+        {
+        "id": 2,
+        "title_tr": "Büyük Dil Modelleri (LLM) ile Sesli Asistan Atölyesi",
+        "title_en": "Voice Assistant Workshop with Large Language Models (LLM)",
+        "desc_tr": "",
+        "desc_en": "",
+        "image": "images/llm.jpeg",
+        "url": ""
+    }    
+     
 ]
 
 
