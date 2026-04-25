@@ -16,7 +16,16 @@
         "desc_en": "",
         "image": "images/llmS.jpeg",
         "url": ""
-    }    
+    }  
+            {
+        "id": 3,
+        "title_tr": "SUOK 2026 - Selçuk Üniversitesi Ulusal Öğrenci Kongresi",
+        "title_en": "SUOK 2026 - Selcuk University National Student Congress 2026",
+        "desc_tr": "Trafik kazalarının şiddetini makine öğrenmesi ile tahmini konusu üzerine çalışma gerçekleştirdim.",
+        "desc_en": "I conducted research on predicting traffic accidents using machine learning.",
+        "image": "images/suok.jpeg",
+        "url": "https://www.linkedin.com/posts/hharas_2122-nisan-2026-tarihlerinde-konyada-d%C3%BCzenlenen-ugcPost-7452736512976371712-WU7v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFtBcygBPiFcAoEGZ9asGxMtc1RXz554O74"
+    }  
      
 ]
 
