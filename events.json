@@ -8,7 +8,7 @@
         "image": "images/event.jpeg",
         "url": "https://www.linkedin.com/feed/update/urn:li:activity:7401572482161451008//"
     }    
-        {
+    {
         "id": 2,
         "title_tr": "Büyük Dil Modelleri (LLM) ile Sesli Asistan Atölyesi",
         "title_en": "Voice Assistant Workshop with Large Language Models (LLM)",
@@ -17,7 +17,7 @@
         "image": "images/llmS.jpeg",
         "url": ""
     }  
-            {
+    {
         "id": 3,
         "title_tr": "SUOK 2026 - Selçuk Üniversitesi Ulusal Öğrenci Kongresi",
         "title_en": "SUOK 2026 - Selcuk University National Student Congress 2026",
